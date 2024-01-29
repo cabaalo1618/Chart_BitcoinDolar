@@ -1,0 +1,1 @@
+Script simples que busca dados do bitcoin numa api e gera um grafico
